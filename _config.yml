@@ -1,0 +1,16 @@
+name: David's Personal Site
+description: Computational Biologist
+url: http://www.kleinjdavid.com/blog
+baseurl: /blog
+permalink: /:title/
+version: v1.2.0
+
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
