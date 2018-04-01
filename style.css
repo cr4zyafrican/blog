@@ -117,11 +117,11 @@ a.h1{
 a.h1:hover {
 	color: #36648B;
 }
-a.h2 {
+a.h {
 	text-decoration: none;
 	color: rgb(107, 107, 132);
 }
-a.h2:hover {
+a.h:hover {
 	color: rgb(107, 107, 132);
 }
 pre {
