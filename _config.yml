@@ -1,6 +1,6 @@
 name: David's Personal Site
 description: Computational Biologist
-url: http://www.kleinjdavid.com/blog
+url: http://www.keys248.github.io
 baseurl: /blog
 permalink: /:title/
 version: v1.2.0
