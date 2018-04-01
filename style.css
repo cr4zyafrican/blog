@@ -104,12 +104,18 @@ p.center {
 p {
 	margin-bottom: 1em;
 }
-a.page_head{
+a.h1{
 	text-decoration: none;
 	color: #36648B;
 }
-a.page_head:hover {
+a.h1:hover {
 	color: #36648B;
+}
+a.h2:hover {
+	color: rgb(107, 107, 132);
+}
+a.h2:hover {
+	color: rgb(107, 107, 132);
 }
 a {
 	color: rgb(184, 126, 84);
