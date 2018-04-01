@@ -1,3 +1,5 @@
+## View site at [kleinjdavid.com/blog](http://www.kleinjdavid.com/blog)
+
 ## Status
-Currently not operational. Jekyll is confusing (what does the '/' error mean?) and setting up gh-pages in a project repository with a custom domain name (how do I configure the CNAME and DNS pointers?) is even more confusing.
+Currently having CSS problems. Jekyll is confusing, what does the '/' error mean?
 Help please!
