@@ -118,6 +118,7 @@ a.h1:hover {
 	color: #36648B;
 }
 a.h2:hover {
+	text-decoration: none;
 	color: rgb(107, 107, 132);
 }
 a.h2:hover {
