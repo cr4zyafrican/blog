@@ -1,6 +1,6 @@
 name: David's Personal Website
 description: Computational Biologist
-url: http://www.kleinjdavid.com
+url: https://www.kleinjdavid.com
 baseurl: /blog
 permalink: /:title/
 version: v1.2.0
